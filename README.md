@@ -1,5 +1,5 @@
 # magento-order-tracking
-Magento 2 Order Tracking extension allows customers to check order status by order ID and email address, or Tracking code without having to login, full notification of order status such as Pending, Cancel, Complete, etc. Customers can also check the shipping address, shipping method and billing address of the order.
+Magento 2 Order Tracking extension gives customers the ability to track their orders with order ID, email address or Tracking code, without needing to login. They are informed of the order status, such as Pending, Cancel, Complete, etc. They can also check the shipping and billing information of the order. Extensions support customer engagement and trust.
 
 Please go to https://magehq.com/order-tracking.html buy extension
 
